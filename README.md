@@ -1,2 +1,2 @@
 # tic-tak-toe
-game
+Link to the game: https://spirtliora.github.io/Updated-tic-tak-toe/game.html
